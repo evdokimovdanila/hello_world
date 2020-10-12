@@ -1,4 +1,4 @@
 # hello_world
-My first repository
+Just another repository
 
 Hello, I study Python and ML.
